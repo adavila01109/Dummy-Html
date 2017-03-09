@@ -1,0 +1,163 @@
+<html>
+<head>
+
+	<style>
+		body {
+			background: url('wp.jpg') no-repeat center center fixed; 
+			 -webkit-background-size: cover;
+		     -moz-background-size: cover;
+		     -o-background-size: cover;
+		     background-size: cover;
+
+			}
+
+				h1{
+					color: white;
+					font-family: 'New York', New York;
+					font-weight: 100px;
+					font-size:65px;
+					margin: 0px;
+				}
+
+				h2{
+					color: orange;
+					font-family: 'New York', New York;
+					font-weight: 100px;
+					font-size:30px;
+					margin: 0px;
+
+				}
+
+				p {
+					
+					color:white;
+					font-family: 'New York', New York;
+					font-weight: 350px;		
+
+				}
+
+				.box{
+					background-color: rgba(0,0,0,0.3);
+					padding: 15px;
+					width: 850px;    
+					margin: 0px  auto; 
+					text-align: center;
+				}
+
+	</style>
+
+</head>
+
+<body>
+		<div class="box">  
+
+			<h1>This is a Dummy page</h1> 
+
+			<h2> <i>012345@tech.com </i> </h2>
+
+			<img src="wf.png" alt="Test Image" width="350" height=250/>
+
+			<p>
+				<font size="05">
+				<strong> <i>This is a Test</i> 
+	</p>
+
+			<p>
+			<font size="05">
+			 	<strong> ipsum's still resembles classical Latin, it actually has no meaning whatsoever. As Cicero's text doesn't contain the letters K, W, or Z, alien to latin, these, and others are often inserted randomly to mimic the typographic appearence of European languages, as are digraphs not to be found in the original.
+				
+				<br> 
+				
+
+	</p>
+
+			
+			<a  href="dummyr.html" style="color:orange;font-size: 30px; font-family: 'New York', New York"> Home Page</a> 
+
+			<br> <br> 
+
+			<a 	href="https://www.linkedin.com/in/dummy-account-ab9a8225/">
+				<img src="linkedin.png" />
+			
+			</a>
+
+			 <br> <br>
+
+			</div>
+
+				<p>
+
+				<font color="white"> <u> <i>List 1</u>: </i>  </font> <br>  </p>
+
+				<font color="orange"> L1 <br> Inc <br> <i>Somewhere</i> <br> <br>
+		 										
+				<li>This is a test.</li>                                      
+				<li>This is a test</li> 
+				<li>This is a test.</li> 
+				<li>This is a test.</li> 
+				<li>This is a test.</li> 
+
+				<br> <br>
+
+			    This is a test.<br>														
+				This is a test.<br>
+				<i> Somewhere </i> 													
+				
+				<br> <br>
+
+				<li>This is a test..</li> 
+  				<li>This is a test..</li> 
+				<li>This is a test.</li> 
+				<li>This is a test.</li> 
+
+				<br> <br>
+
+				<font color="white"> <u> <i>This is a test.</u>: </i>  </font> 
+
+					<br> <br>
+
+  				<font color="orange"> This is a test. <br>
+			 	<li> This is a test. </li>
+
+				<br> 
+			
+				This is a test. <br>
+				This is a test.
+
+					<br> <br>
+
+				<p> 
+
+				<font color="white"> <u> <i>This is a test.</u>: </i>  </font> 
+
+	</p>
+			
+             	<li> This is a test.</li>
+            	<li> This is a test.</li>
+ 				<li> This is a test.</li>
+				<li> This is a test.</li>
+				<li> This is a test.</li>
+				<li> This is a test./li>
+				<li> This is a test.</li>
+
+								<br> 
+				<p> 
+
+				<font color="white"> <u> <i>This is a test.</u>: </i>  </font> 
+
+						<br> 
+	</p>
+
+					<li>This is a test.</li>
+					<li>This is a test.</li>
+
+
+
+
+
+			
+
+
+</body>
+
+</html
